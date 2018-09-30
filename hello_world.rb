@@ -1,2 +1,2 @@
-puts "hello world"
-puts "goodbye world"
+puts "Hello World"
+puts "Goodbye World"
